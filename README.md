@@ -21,4 +21,6 @@ The company's balance sheet and income statement plays a major role in determini
 
 ***All/some of the above factors are extracted and a properly computed, to generate the score for the company.***
 
+[Note : The knownledge of analysing the company is learned from one of the stock market expert and from other few resources]
+
 
