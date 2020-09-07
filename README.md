@@ -13,7 +13,7 @@ No need to study all those scary numbers on the balance sheet of the company. No
 The company's balance sheet and income statement plays a major role in determining the performance of the company. Following are the characteristics of the good performing companies in stock market :
 - Revenue increasing every year
 - Profit increasing every year
-- Stock price increasing every year
+- Share price increasing every year
 - % of foreign investors in the company
 - The performace of the company is also compared with its peers in the same sector
 - The profit and the market capital of the company is compared with some of the largest companies in the same sector. This way, an idea can be generalised how the company will perform if its market capital increases in the future
@@ -22,5 +22,13 @@ The company's balance sheet and income statement plays a major role in determini
 ***All/some of the above factors are extracted and a properly computed, to generate the score for the company.***
 
 [Note : The knownledge of analysing the company is learned from one of the stock market expert and from other few resources]
+
+### How to use the app ?
+Anyone who is investing in stock market or is keen to invest in the stock market, knows about moneycontrol.com . It is the place, where all the required information about the company and it's share price is available.
+
+Simple steps to generate the score of the company :
+
+##### Step 1 : Go to Moneycontrol.com and search for any company
+
 
 
