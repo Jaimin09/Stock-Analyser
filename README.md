@@ -9,7 +9,7 @@ But analysing the company is only an expert's cup of tea! That's why Stock Buddy
 
 No need to study all those scary numbers on the balance sheet of the company. No need to have expert knowledge to find good companies to invest in. No need to spend alot of time studying a poor performing company. Just enter the url and hit the button. Everything is done for you !
 
-### How the company is analysed ?
+### How the company analysis is done in stock market ?
 The company's balance sheet and income statement plays a major role in determining the performance of the company. Following are the characteristics of the good performing companies in stock market :
 - Revenue increasing every year
 - Profit increasing every year
