@@ -19,6 +19,6 @@ The company's balance sheet and income statement plays a major role in determini
 - The profit and the market capital of the company is compared with some of the largest company in the same sector. This way, an idea can be generalised how the company will perform if its market capital increases in the future
 - Is the company too large ? Or it can make significant amount of growth in the future ?
 
-***All/some of the above factors are extracted and a proper computation is done, to generate the score.***
+***All/some of the above factors are extracted and a properly computed, to generate the score for the company.***
 
 
