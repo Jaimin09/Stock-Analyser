@@ -2,7 +2,7 @@
 
 Stock Buddy determines if the company stock is worth buying or not. It generates a score for the company's stock to determine how good the stock is for investement
 
-## What is solves ? 
+## What it solves ? 
 There are millions of companies in the stock market. How to determine which are the good companies to invest in? If you end up investing in a poor performing company, then its more likely that you are just going to lose your money. That's why investing in the stock market is risky if you don't analyse the company you are investing in.
 
 But analysing the company is only an expert's cup of tea! That's why Stock Buddy has made it simple. All the expert knowledge combined with the algorithmic capabilities, the Stock Buddy analyse the company for normal investors who don't have much knowledge on stock marketing. All they need to do is, just pass the stock url from moneycontrol.com and get the score showing if the company is good for investment or not.
@@ -43,7 +43,7 @@ Simple steps to generate the score of the company :
 - Web Scraping
 - Front-end and Back-end technology
 - HTML, CSS
-The formula is generated to calculate the score, based on the above mentioned factors
+- The formula is generated to calculate the score, based on the above mentioned factors
 
 ## Files :
 - Images (folder) : contains required images for the README.md file
