@@ -14,9 +14,9 @@ The company's balance sheet and income statement plays a major role in determini
 - Revenue increasing every year
 - Profit increasing every year
 - Stock price increasing every year
-- How much % of foreign investors in the company
+- % of foreign investors in the company
 - The performace of the company is also compared with its peers in the same sector
-- The profit and the market capital of the company is compared with some of the largest company in the same sector. This way, an idea can be generalised how the company will perform if its market capital increases in the future
+- The profit and the market capital of the company is compared with some of the largest companies in the same sector. This way, an idea can be generalised how the company will perform if its market capital increases in the future
 - Is the company too large ? Or it can make significant amount of growth in the future ?
 
 ***All/some of the above factors are extracted and a properly computed, to generate the score for the company.***
