@@ -28,7 +28,9 @@ Anyone who is investing in stock market or is keen to invest in the stock market
 
 Simple steps to generate the score of the company :
 
-##### Step 1 : Go to Moneycontrol.com and search for any company
-
+#### Step 1 : Go to Moneycontrol.com
+![Moneycontrol](https://raw.githubusercontent.com/Jaimin09/Stock-Buddy/master/Images/Screenshot%20(180).png)
+#### Step 2 : Search for the company you want to analyse
+![search](https://raw.githubusercontent.com/Jaimin09/Stock-Buddy/master/Images/Screenshot%20(179).png)
 
 
